@@ -26,7 +26,7 @@ Para rodar o projeto localmente em sua máquina, siga estas etapas:
 ## Contato
 Para mais informações minhas e sobre outros projetos meus veja meu [Portifolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
 
-# Hortifruti Inventory Control with React and ReduxHortifruti Inventory Control with React and Redux
+# Hortifruti Inventory Control with React and Redux
 
 ## Description
 The Hortifruti Inventory Control project is a React application that demonstrates the use of Redux to manage the application state. It features a single component that allows users to control the inventory of a hortifruti through a basic form. Users can add new products to the inventory by specifying the product name and quantity. Additionally, they can view a list of existing products in the inventory, along with information about available quantity.

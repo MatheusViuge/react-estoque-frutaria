@@ -44,7 +44,7 @@ The Hortifruti Inventory Control project is a React application that demonstrate
 ## Installation
 To run the project locally on your machine, follow these steps:
 
--Clone this repository to your local machine.
+- Clone this repository to your local machine.
 - Make sure you have Node.js installed on your machine. [Download Node here](https://nodejs.org/en/download/)
 - In the terminal, navigate to the project directory.
 - Run the command npm install to install the dependencies.

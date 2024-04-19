@@ -25,3 +25,31 @@ Para rodar o projeto localmente em sua máquina, siga estas etapas:
 
 ## Contato
 Para mais informações minhas e sobre outros projetos meus veja meu [Portifolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
+
+# Hortifruti Inventory Control with React and ReduxHortifruti Inventory Control with React and Redux
+
+## Description
+The Hortifruti Inventory Control project is a React application that demonstrates the use of Redux to manage the application state. It features a single component that allows users to control the inventory of a hortifruti through a basic form. Users can add new products to the inventory by specifying the product name and quantity. Additionally, they can view a list of existing products in the inventory, along with information about available quantity.
+
+## Features 
+- Use of Redux for state management, ensuring a clear and predictable structure.
+- Simple form component for adding new products to the inventory.
+- Display of a list of existing products in the inventory.
+
+## Technologies Used
+* React: A JavaScript library for building user interfaces.
+* Redux: A state management library for JavaScript applications.
+* HTML/CSS: For structuring and styling the application.
+
+## Installation
+To run the project locally on your machine, follow these steps:
+
+-Clone this repository to your local machine.
+- Make sure you have Node.js installed on your machine. [Download Node here](https://nodejs.org/en/download/)
+- In the terminal, navigate to the project directory.
+- Run the command npm install to install the dependencies.
+- Run the command npm start to start the development server.
+- Access the application in your browser via the address http://localhost:3000.
+
+## Contact
+For more information about me and my other projects, check out my [Portfolio](https://github.com/MatheusViuge/PortifolioMatheusViuge/tree/main)
